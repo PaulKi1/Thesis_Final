@@ -1,6 +1,7 @@
-# De-Americanization Thesis Pipeline
+# Thesis Paul Kielhorn
 
-Python pipeline for downloading OPRA option data, cleaning it, de-Americanizing quotes, applying Fengler repair, and running downstream thesis analysis.
+Below is a quick running code if replication is desired. All of this is the code used for my Thesis: "Empirical Analysis of Implied Volatility Scaling in Single-Stock Leveraged ETF Options"
+Note: Chapters 4-5 of the main paper (Leung and Sircar 2015) were also used for analysis but are not in this repo
 
 ## Quick Start
 
