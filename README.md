@@ -1,7 +1,9 @@
 # Thesis Paul Kielhorn
 
 Below is a quick running code if replication is desired. All of this is the code used for my Thesis: "Empirical Analysis of Implied Volatility Scaling in Single-Stock Leveraged ETF Options"
-Note: Chapters 4-5 of the main paper (Leung and Sircar 2015) were also used for analysis but are not in this repo
+As a summary, **scripts** contains the simple runners. The codes are in **src** / can be accessed easily from the imported packages for each runner in **scripts**. 
+
+#Note: Chapters 4-5 of the main paper (Leung and Sircar 2015) were also used for analysis but are not in this repo. Generative AI has been used for the development of this codebase
 
 ## Quick Start
 
